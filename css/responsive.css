@@ -107,6 +107,11 @@
         padding: 7px 17px;
         border-radius: 50px;
     }
+    .main__sdl_c-brw__left .input {
+        height: 39px;
+        font-size: 18px;
+        padding: 0 15px;
+    }
     .carousel-dots-1 .owl-dot {
         height: 10px;
         width: 10px;

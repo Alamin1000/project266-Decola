@@ -723,6 +723,20 @@ p:last-child{
   flex-grow: 1;
   display: flex;
   justify-content: flex-end;
+  position: relative;
+}
+.main__sdl_c-brw__left .input {
+  width: 100%;
+  height: 58px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: inherit;
+  border-color: transparent;
+  background: transparent;
+  color: #fff;
+  font-size: 25px;
+  padding: 0 20px;
 }
 .main__sdl_c-brw__left .icon-btn {
   width: 37px;
